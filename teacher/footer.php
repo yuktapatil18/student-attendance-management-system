@@ -1,0 +1,1 @@
+      <script src="dist/js/adminlte.js"></script>
